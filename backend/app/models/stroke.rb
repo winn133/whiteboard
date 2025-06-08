@@ -1,0 +1,2 @@
+class Stroke < ApplicationRecord
+end

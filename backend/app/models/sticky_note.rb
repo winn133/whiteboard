@@ -1,0 +1,2 @@
+class StickyNote < ApplicationRecord
+end
