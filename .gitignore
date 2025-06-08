@@ -57,3 +57,4 @@ build-iPhoneSimulator/
 
 /backend/tmp/**
 /frontend/node_modules/**
+/backend/log/**
