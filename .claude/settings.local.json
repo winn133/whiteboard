@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(rbenv exec rails generate:*)",
+      "Bash(rbenv exec rails test:*)",
+      "Bash(npm run build:*)"
+    ],
+    "deny": []
+  }
+}
